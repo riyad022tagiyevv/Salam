@@ -8,7 +8,7 @@
          "aykhan_s",
          "RoBotlarimTg"
       ],   
-   "repository": "https://github.com/aykhan026/EtirafBot-RoBotlarimTg",
+   "repository": "https://github.com/riyad022tagiyevv/Salam",
    "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
@@ -24,11 +24,11 @@
       },    
       "ADMIN_QRUP": {
          "description": "Etirafları təsdiqləməy üçün bir qrup yaradın. yaratdığınız botu həmin qrupa atıb admin edib qrup idini bura yazın",
-         "value": "-1001877336321"
+         "value": "-1001823689827"
       },      
       "ETIRAF_QRUP": {
          "description": "Təsdiqlədiyiniz etiraf paylaşılacaq kanal/qrup idini yazın",
-         "value": "-1001877336321"
+         "value": "-1001945771481"
       },
       "LOG_QRUP": {
          "description": "Bu qrupa botunuz giriş çıxış bilgiləri və xüsusi gizli məlumatlar göndərəcəy bu qrupda yalnız özünüz olun",
@@ -36,11 +36,11 @@
       },
       "kanal": {
          "description": "Etiraflar paylaşılacaq kanal/qrup linkini bura yazın @ işarəsi olmadan",
-         "value": "N1Etiraff"
+         "value": "ModernEtiraf"
       },
       "BOT_AD": {
          "description": "Botun usernamesini bura yazın @ işarəsi ilə",
-         "value": "N1EtirafRobot"
+         "value": "ModernEtirafBot"
       },
       "sahib": {
          "description": "Bura öz usernamenizi yazın @ işarəsi olmadan",
@@ -48,7 +48,7 @@
       },      
       "support": {
          "description": "Bura support qrupunuz/kanalınız varsa @ işarəsi olmadan yazın yoxdusa olduğu kimi buraxın",
-         "value": "RiyaddBlogg"
+         "value": "OldHumans"
       },
       "startmesaj": {
          "description": "Bota start verilən zaman yazılan mesaj",
@@ -68,7 +68,7 @@
       },
       "gonderildi": {
          "description": "Etiraf edəndən sonra yazılan mesaj (öz kanalınızı yazın)",
-         "value": "✅ **Etirafınız göndərildi Adminlər tərəfindən təsdiq olunduqdan sonra @EtirafClub kanalında paylaşılacaq**"
+         "value": "✅ **Etirafınız göndərildi Adminlər tərəfindən təsdiq olunduqdan sonra @ModernEtiraf kanalında paylaşılacaq**"
       }
       
    }
