@@ -16,11 +16,11 @@
       },
       "APP_ID": {
          "description": "my.telegram.org adresindən APP ID alın.",
-         "value": "12878302"
+         "value": "29138904"
       },
       "API_HASH": {
          "description": "my.telegram.org adresindən API HASH alın",
-         "value": "1ce756e879790d465304f48c36294883"
+         "value": "0cdbc65bf2e0984ad00464dfd871e90c"
       },    
       "ADMIN_QRUP": {
          "description": "Etirafları təsdiqləməy üçün bir qrup yaradın. yaratdığınız botu həmin qrupa atıb admin edib qrup idini bura yazın",
